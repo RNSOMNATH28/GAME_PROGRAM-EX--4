@@ -1,8 +1,8 @@
 # GAME_PROGRAM-EX--4
 # Attach Rifle with character mesh and implementation bullet spawn from Rifle
 
-## Name :Hari Ram R
-## Reg No : 212224240050
+## Name :R N SOMNATH
+## Reg No : 212224240158
 
 
 ## AIM
